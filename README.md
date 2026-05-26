@@ -1,3 +1,6 @@
+<img width="286" height="472" alt="image" src="https://github.com/user-attachments/assets/e26352db-6f32-4fa1-9540-9e351534da8a" />
+<img width="566" height="946" alt="calc" src="https://github.com/user-attachments/assets/e8b0cc12-1c41-42f0-9229-68925ef878b3" />
+
 # CalculatorApp
 
 A sleek, fully functional desktop calculator designed with a modern dark-mode interface inspired by the Apple ecosystem. Built entirely in Java, this project emphasizes precise arithmetic logic alongside a highly polished, custom-styled graphical user interface.
